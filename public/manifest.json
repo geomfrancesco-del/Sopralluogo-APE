@@ -1,0 +1,18 @@
+{
+  "name": "Sopralluogo APE - Rilievo Energetico iPad",
+  "short_name": "Sopralluogo APE",
+  "description": "Applicazione per rilievi e note di sopralluogo per la redazione dell'Attestato di Prestazione Energetica (APE).",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4338ca",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

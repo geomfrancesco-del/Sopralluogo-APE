@@ -1,0 +1,6 @@
+{
+  "name": "CantiereNote APE - Rilievo Energetico iPad",
+  "description": "Applicazione touch-first per iPad per rilievi e note di sopralluogo per la redazione dell'Attestato di Prestazione Energetica (APE) con calcolo superfici, rilievo impianti, fascicolo fotografico e scheda tecnica stampabile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
